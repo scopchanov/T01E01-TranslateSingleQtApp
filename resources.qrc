@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/flag-de.png</file>
+        <file>icons/flag-en.png</file>
+        <file>icons/flag-pl.png</file>
+        <file>icons/flag-ru.png</file>
+    </qresource>
+</RCC>
